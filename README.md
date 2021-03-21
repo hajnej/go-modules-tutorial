@@ -1,2 +1,2 @@
 # go-modules-tutorial
-Repository for Using Go Modules blog post
+Repository for [Using Go Modules](https://blog.golang.org/using-go-modules) blog post
